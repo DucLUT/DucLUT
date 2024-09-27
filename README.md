@@ -46,9 +46,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=DucLUT&label=Profile%20Views&icon=0&pretty=true&color=0)](https://visitcount.itsvg.in)  
 <a href="https://chromedino.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
-    <img alt="https://DucLUT" src="./img/dino.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/dino-dark.gif" />
+    <img alt="https://DucLUT" src="./icons/dino-dark.gif" />
   </picture>
 </a>
 
