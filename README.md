@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p float="left">
     <img src="./icons/typescript.svg" alt="TypeScript" width="50" height="50">
-    <img src="./icons/javascript.svg" alt="JavaScript" width="50" height="50">
+    <img src="./icons/nodedotjs.svg" alt="JavaScript" width="50" height="50">
     <img src="./icons/nodedotjs.svg" alt="Nodejs" width="50" height="50">
     <img src="./icons/express.svg" alt="Express" width="50" height="50">
     <img src="./icons/react.svg" alt="React" width="50" height="50">
