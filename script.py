@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 # Icons from: https://devicon.dev/
 
 # Define the color you want to use
-color = "#00BFFF"  # DodgerBlue
+color = "#A020F0"  # DodgerBlue
 # color = "#F7DF1E" # Yellow
 
 # Loop through all SVG files in the icons directory
