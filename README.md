@@ -43,4 +43,12 @@ Here are some ideas to get you started:
 [![Duc' GitHub stats](https://github-readme-stats.vercel.app/api?username=DucLUT&theme=tokyonight&hide_border=false)](https://github.com/DucLUT/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucLUT&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Neniuk/github-readme-stats)  
-[![](https://visitcount.itsvg.in/api?id=DucLUT&label=Profile%20Views&icon=0&pretty=true&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DucLUT&label=Profile%20Views&icon=0&pretty=true&color=0)](https://visitcount.itsvg.in)  
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+  </picture>
+</a>
+
